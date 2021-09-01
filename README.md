@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avigailleader
+👋 Hi, I’m @avigailleader
 I'm looking for Full Stack developer position 👩‍💻, and I would love to send you my CV.
 
 I'm an experienced Full Stack developer in server and client side development.
